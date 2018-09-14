@@ -55,6 +55,6 @@ def start_game():
 
 start_game()
 # comment
-
+# comment x2
 
 os.system('PAUSE')
