@@ -54,6 +54,7 @@ def start_game():
 
 
 start_game()
+# comment
 
 
 os.system('PAUSE')
